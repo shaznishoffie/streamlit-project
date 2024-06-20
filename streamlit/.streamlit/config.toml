@@ -1,0 +1,9 @@
+[server]
+port = 8501
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+font="sans serif"
+base="dark"
